@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/final-task-weather-with-chat-app/static/css/main.abd30598.chunk.css",
+    "main.js": "/final-task-weather-with-chat-app/static/js/main.66b0e8f4.chunk.js",
+    "main.js.map": "/final-task-weather-with-chat-app/static/js/main.66b0e8f4.chunk.js.map",
+    "runtime-main.js": "/final-task-weather-with-chat-app/static/js/runtime-main.3b1b8dd7.js",
+    "runtime-main.js.map": "/final-task-weather-with-chat-app/static/js/runtime-main.3b1b8dd7.js.map",
+    "static/css/2.150d169a.chunk.css": "/final-task-weather-with-chat-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.b8ae9408.chunk.js": "/final-task-weather-with-chat-app/static/js/2.b8ae9408.chunk.js",
+    "static/js/2.b8ae9408.chunk.js.map": "/final-task-weather-with-chat-app/static/js/2.b8ae9408.chunk.js.map",
+    "index.html": "/final-task-weather-with-chat-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/final-task-weather-with-chat-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.abd30598.chunk.css.map": "/final-task-weather-with-chat-app/static/css/main.abd30598.chunk.css.map",
+    "static/js/2.b8ae9408.chunk.js.LICENSE.txt": "/final-task-weather-with-chat-app/static/js/2.b8ae9408.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1b8dd7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b8ae9408.chunk.js",
+    "static/css/main.abd30598.chunk.css",
+    "static/js/main.66b0e8f4.chunk.js"
+  ]
+}
